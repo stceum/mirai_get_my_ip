@@ -8,4 +8,4 @@
 /bots/
 /config/Console
 /.run/
-/src/test/
+/src/test/*
