@@ -1,5 +1,11 @@
-# mirai-console-plugin-template
+# mirai_get_my_ip
 
-[Mirai Console](https://github.com/mamoe/mirai-console) 插件模板, 使用 Kotlin + Gradle.
+mirai bot 获取ip地址插件
 
-[如何使用](https://github.com/project-mirai/how-to-use-plugin-template)
+简单的功能，首次运行插件之后修改配置文件，把`-1`修改成允许获取 ip 地址的 QQ 号
+
+然后私聊 QQ 机器人 `/ip` 可以得到机器人所在机器的所有网卡的 ip 地址
+
+可以使用在运行着机器人的数莓派上, 方便读取数莓派的 ip 地址
+
+插件仍在测试中，暂时没有计划添加新的功能
