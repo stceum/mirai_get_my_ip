@@ -5,3 +5,7 @@
 /test/
 /out/
 /run/
+/bots/
+/config/Console
+/.run/
+/src/test/
